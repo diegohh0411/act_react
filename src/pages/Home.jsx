@@ -16,7 +16,7 @@ function Home() {
       '¡Bienvenido a la aplicación!',
       'Esta es una aplicación React con Vite',
       'Con componentes personalizados y estado',
-      '¡Gracias por usar nuestra aplicación!'
+      '¡Gracias por usar esta aplicación!'
     ];
     const indiceAleatorio = Math.floor(Math.random() * mensajes.length);
     setMensaje(mensajes[indiceAleatorio]);

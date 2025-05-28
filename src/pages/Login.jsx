@@ -73,7 +73,7 @@ function Login() {
 
     checkServerStatus();
   }, []);
-  
+
   useEffect(() => {
     if (isLoggedIn) {
       navigate('/');
@@ -163,7 +163,7 @@ function Login() {
           <strong>Credenciales de prueba:</strong><br />
           Username: admin | Password: password123<br />
           Username: user | Password: user123<br />
-          Username: diego | Password: diego2024
+          Username: diego | Password: diego2025
         </p>
       </div>
     </div>

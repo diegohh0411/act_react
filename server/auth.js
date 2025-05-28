@@ -12,7 +12,7 @@ app.use(express.json());
 const VALID_CREDENTIALS = [
   { username: 'admin', password: 'password123' },
   { username: 'user', password: 'user123' },
-  { username: 'diego', password: 'diego2024' }
+  { username: 'diego', password: 'diego2025' }
 ];
 
 

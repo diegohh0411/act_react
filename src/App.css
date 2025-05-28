@@ -1,5 +1,5 @@
 @import "tailwindcss";
 
 #root {
-  @apply w-screen min-h-screen bg-gray-100 dark:bg-gray-900;
+  @apply w-screen min-h-screen bg-gray-100 dark:bg-gray-900 dark:text-gray-200;
 }

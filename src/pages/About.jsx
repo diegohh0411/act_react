@@ -39,7 +39,7 @@ function About() {
           
           <div className="border-t border-gray-200 dark:border-gray-700 pt-4">
             <CustomButton 
-              onClick={() => window.open('https://github.com', '_blank')}
+              onClick={() => window.open('https://github.com/diegohh0411/act_react', '_blank')}
               variant="primary"
             >
               Ver en GitHub
